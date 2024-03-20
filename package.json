@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "aman_s-practice-calc",
+  "version": "1.0.0",
+  "description": "Just a task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman",
+  "license": "MIT"
+}
